@@ -1,0 +1,14 @@
+.header__list {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.modal {
+    background-color: white;
+    width: 300px;
+}
+
+.js-list {
+    list-style: none;
+}
